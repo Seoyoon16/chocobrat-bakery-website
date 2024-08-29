@@ -1,1 +1,5 @@
-Team Project
+Team Project for Recreating Chocobrat Bakery Website by Henrique and Seoyun.
+
+Credit to Mr. Gopal Sapara.
+Figma File:
+https://www.figma.com/community/fi le/1108999686959099021
